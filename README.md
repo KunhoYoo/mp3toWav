@@ -14,4 +14,5 @@
  pydub 모듈 및 ffmpeg.exe 파일 필요<br>
 
 **[Version]**<br>
+python 3.7.6 = OK<br>
 pydub 0.25.1 = OK
