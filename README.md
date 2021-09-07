@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><br>
 **[recapitulate]**<br>
 :musical_note:mp3 파일을 :notes:wav 형식으로 일괄 변환<br>
 
